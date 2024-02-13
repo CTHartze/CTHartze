@@ -2,5 +2,8 @@
 <h3 align="center">An ALX SWE university student</h3>
 
 <a href="https://github.com/CTHartze/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTHartze&langs_count=20&hide=Brainfuck,M&layout=donut"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CTHartze&include_all_commits=true&rank_icon=github&custom_title=Stats+Overview"/>
+</a>
+<a href="https://github.com/CTHartze/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CTHartze&hide=Brainfuck,M&layout=donut"/>
 </a>
